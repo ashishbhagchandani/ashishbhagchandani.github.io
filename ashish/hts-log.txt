@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 09 Jan 2018 09:38:23 at https://www.silverwingtechnologies.com/git/160120116002/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.silverwingtechnologies.com/git/160120116002/ -O1 "D:\GITHUB\ashish" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:38:43	Error: 	"Not Found" (404) at link https://www.silverwingtechnologies.com/git/160120116002/images/ajax-loader-white.gif (from https://www.silverwingtechnologies.com/git/160120116002/)
+09:38:43	Warning: 	File not parsed, looks like binary: https://www.silverwingtechnologies.com/git/160120116002/assets/fonts/fontawesome-webfont5b62.html?v=4.6.3
+09:38:43	Warning: 	Warning: store application/octet-stream without scan: D:/GITHUB/ashish/www.silverwingtechnologies.com/git/160120116002/assets/fonts/fontawesome-webfont5b625b62.html
+
+HTTrack Website Copier/3.49-2 mirror complete in 21 seconds : 46 links scanned, 44 files written (1921697 bytes overall) [1920262 bytes received at 91441 bytes/sec], 123008 bytes transferred using HTTP compression in 15 files, ratio 72%, 11.5 requests per connection
+(1 errors, 2 warnings, 0 messages)
