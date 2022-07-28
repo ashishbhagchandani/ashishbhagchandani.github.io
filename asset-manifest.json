@@ -1,14 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.51165a0e.css",
-    "main.js": "/static/js/main.77f5861f.js",
+    "main.js": "/static/js/main.acb758b4.js",
     "static/media/go-game.png": "/static/media/go-game.6a1f860a68012bdefd52.png",
     "static/media/realestate.jpg": "/static/media/realestate.44fd19f4c6872731149c.jpg",
     "static/media/python.png": "/static/media/python.f0c9d64775aac23759fe.png",
     "static/media/gtulogo.png": "/static/media/gtulogo.e5d21c21893bf4b0f2df.png",
     "static/media/workImg.jpeg": "/static/media/workImg.e4c66be6ae2ae4f83608.jpeg",
     "static/media/powerbi.png": "/static/media/powerbi.5da15d4c28def03b1613.png",
+    "static/media/wm.png": "/static/media/wm.975b8708aecfbd4cb673.png",
+    "static/media/blog.png": "/static/media/blog.e68e7e62996a3cf0ec86.png",
     "static/media/tableau.png": "/static/media/tableau.9bd362f0a8d2342fd940.png",
+    "static/media/robotic.png": "/static/media/robotic.aa97a0e939babbcf65bb.png",
+    "static/media/rc.png": "/static/media/rc.6292152bb3ef01550ca5.png",
     "static/media/AI-chatbot.png": "/static/media/AI-chatbot.293781d6ca66d7851aa6.png",
     "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/aws.png": "/static/media/aws.95bdee6b9922c9b94fd5.png",
@@ -16,9 +20,11 @@
     "static/media/postgresql.png": "/static/media/postgresql.c78931dc4bdd01aaf63b.png",
     "static/media/logo.png": "/static/media/logo.0e7031ebc2962091b65a.png",
     "static/media/mongo.png": "/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/snake.png": "/static/media/snake.e8fc3bbad9de80abb258.png",
     "static/media/pytorch.png": "/static/media/pytorch.1846b539bca97b87853e.png",
     "static/media/dp.png": "/static/media/dp.21ceb6712a603b61c1e2.png",
     "static/media/github.png": "/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/es.png": "/static/media/es.bb3fefbfa52c809c7305.png",
     "static/media/html.png": "/static/media/html.2ba4fabc69a89a8f71e6.png",
     "static/media/tailwind.png": "/static/media/tailwind.e47ac876b8d4d0bba47a.png",
     "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
@@ -29,10 +35,10 @@
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/index.html",
     "main.51165a0e.css.map": "/static/css/main.51165a0e.css.map",
-    "main.77f5861f.js.map": "/static/js/main.77f5861f.js.map"
+    "main.acb758b4.js.map": "/static/js/main.acb758b4.js.map"
   },
   "entrypoints": [
     "static/css/main.51165a0e.css",
-    "static/js/main.77f5861f.js"
+    "static/js/main.acb758b4.js"
   ]
 }
