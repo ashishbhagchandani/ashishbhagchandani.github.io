@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.51165a0e.css",
-    "main.js": "/static/js/main.acb758b4.js",
+    "main.css": "/static/css/main.8b49b467.css",
+    "main.js": "/static/js/main.b9dd2805.js",
     "static/media/go-game.png": "/static/media/go-game.6a1f860a68012bdefd52.png",
     "static/media/realestate.jpg": "/static/media/realestate.44fd19f4c6872731149c.jpg",
     "static/media/python.png": "/static/media/python.f0c9d64775aac23759fe.png",
@@ -33,12 +33,14 @@
     "static/media/spark.png": "/static/media/spark.e0a3cd59fde1eedf1cd0.png",
     "static/media/mysql.png": "/static/media/mysql.08ff3f9d6b820e79a06c.png",
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "static/media/company.svg": "/static/media/company.c278f2057aabcddb5ba3bd5fee7d243a.svg",
+    "static/media/uni.svg": "/static/media/uni.c3a3f4abc349e34e94a2beeb4cf25197.svg",
     "index.html": "/index.html",
-    "main.51165a0e.css.map": "/static/css/main.51165a0e.css.map",
-    "main.acb758b4.js.map": "/static/js/main.acb758b4.js.map"
+    "main.8b49b467.css.map": "/static/css/main.8b49b467.css.map",
+    "main.b9dd2805.js.map": "/static/js/main.b9dd2805.js.map"
   },
   "entrypoints": [
-    "static/css/main.51165a0e.css",
-    "static/js/main.acb758b4.js"
+    "static/css/main.8b49b467.css",
+    "static/js/main.b9dd2805.js"
   ]
 }
